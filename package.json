@@ -1,6 +1,6 @@
 {
   "name": "rr-cli-tw",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Rokas Rudgalvis CLI command 'rr-tw' to automate the process of installing Tailwind CSS on SvelteKit projects",
   "author": "Rokas Rudgalvis",
   "type": "module",
@@ -17,15 +17,12 @@
     "@types/chalk-animation": "^1.6.3",
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.11.25",
-    "tailwindcss": "^3.4.1",
     "typescript": "^5.2.2"
   },
   "dependencies": {
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
-    "chokidar": "^3.6.0",
-    "inquirer": "^9.2.15",
-    "wait": "^0.4.2"
+    "inquirer": "^9.2.15"
   },
   "repository": {
     "type": "git",
