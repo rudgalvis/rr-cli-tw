@@ -1,6 +1,6 @@
 {
   "name": "rr-cli-tw",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Rokas Rudgalvis CLI command 'rr-tw' to automate the process of installing Tailwind CSS on SvelteKit projects",
   "author": "Rokas Rudgalvis",
   "type": "module",
